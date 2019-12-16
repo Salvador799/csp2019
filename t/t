@@ -1,0 +1,53 @@
+#top {
+ 
+  width:20%;
+  height:5in;
+  color: red;
+  background-color: red;
+   margin-right: 
+
+  } 
+
+
+
+#blue{
+ 
+  width:20%;
+  height:5in;
+  color: blue;
+  background-color: blue;
+  color:blue;
+
+  
+}
+
+#pink{
+ 
+  width:20%;
+  height:5in;
+  color: pink;
+  background-color: pink;
+  color:pink;
+ 
+}
+
+#purple{
+ 
+  width:20%;
+  height:5in;
+  color:purple;
+  background-color:purple;
+  color: purple;
+
+}
+
+
+#yellow{
+ 
+  width:20%;
+  height:5in;
+  color:yellow;
+  background-color:yellow;
+  color: yellow;
+ 
+}

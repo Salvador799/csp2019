@@ -1,0 +1,54 @@
+#top {
+ 
+
+  color: red;
+  background-color: red;
+  height:5in;
+ 
+
+  } 
+
+
+
+  #blue{
+
+  height:5in;
+  color: blue;
+  background-color: blue;
+  color:blue;
+
+  
+}
+
+
+
+
+#pink{
+
+  height:5in;
+  color: pink;
+  background-color: pink;
+  
+}
+
+
+
+#purple{
+ 
+  height:5in;
+  color:purple;
+  background-color:purple;
+  color: purple;
+
+}
+
+#yellow{
+ 
+  height:5in;
+  color:yellow;
+  background-color:yellow;
+  
+
+}
+
+

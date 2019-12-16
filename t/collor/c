@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Box Model</title>
+    <link rel="stylesheet" href="Part5_master.css">
+  </head>
+  <body> 
+    <table border="0">
+<thread>
+<th> <h1 id="top">Top</h1>  </th>
+<th><h2 id="blue">blue</h2></th>
+<th><h3 id="pink">pink</h3></th>
+<th><h4 id="purple">purple</h4></th>
+<th><h5 id="yellow">yellow</h5></th>
+ 
+</thread>
+
+
+
+
+
+      </body>
+      </html>
